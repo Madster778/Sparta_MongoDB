@@ -284,5 +284,3 @@ db.starships.insertOne({
 ```
 
 ---
-
-_Finalised for the MongoDB Multiple Choice Assessment – Good luck!_
